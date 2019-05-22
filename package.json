@@ -11,8 +11,8 @@
     }
   },
   "description": "Application initialaised",
-  "license": "SEE LICENSE IN <your-license-filename>",
-  "repository": "<fill-your-repository-here>",
+  "license": "MIT License",
+  "repository": "https://github.com/alpha3media/salatquiet",
   "dependencies": {
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
